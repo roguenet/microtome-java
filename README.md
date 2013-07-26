@@ -1,4 +1,4 @@
 microtome-java
 ==============
 
-The Java port of the microtome library
+The Java port of the (Microtome)[https://github.com/tconkling/microtome] library.
